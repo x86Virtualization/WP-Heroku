@@ -1,5 +1,5 @@
 {
-	"name": "CMS Buildpacks by TechnoMile",
+	"name": "CMS Buildpacks by TechnoMile & Bradford Knowlton",
 	"description": "Deploy your favorite CMS on Heroku using our WordPress buildpack.",
 	"repository": "https://github.com/x86Virtualization/WP-Heroku",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
