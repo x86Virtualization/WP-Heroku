@@ -96,6 +96,9 @@ define('WPLANG', 'en');
 define('WP_DEBUG', false);
 define( 'WP_AUTO_UPDATE_CORE', false );
 
+/** Define WordPress.com API Key */
+define('WPCOM_API_KEY',$_ENV["WPCOM_API_KEY"]);
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */

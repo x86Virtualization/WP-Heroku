@@ -18,33 +18,37 @@
 		   "description": "Salt for your app",
 		      "generator": "secret"
 			  },
-	   "SECURE_AUTH_KEY": {		   
+	   "SECURE_AUTH_KEY": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "LOGGED_IN_KEY": {		   
+	   "LOGGED_IN_KEY": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "NONCE_KEY": {		   
+	   "NONCE_KEY": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "AUTH_SALT": {		   
+	   "AUTH_SALT": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "SECURE_AUTH_SALT": {		   
+	   "SECURE_AUTH_SALT": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "LOGGED_IN_SALT": {		   
+	   "LOGGED_IN_SALT": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
 		  },
-	   "NONCE_SALT": {		   
+	   "NONCE_SALT": {
 		   "description": "Salt for your app",
 		    "generator": "secret"
+		  },
+	   "WPCOM_API_KEY": {
+		   "description": "If you hardcode a WP.com API key here, all key config screens will be hidden",
+		   "value": "your-key"
 		  }
-   }	   
+   }
 }
